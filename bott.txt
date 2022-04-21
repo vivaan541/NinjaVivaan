@@ -1,0 +1,3 @@
+ ip-pvpsmp321.aternos.me
+ port-34090
+name-Ninjavivaan0009
